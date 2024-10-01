@@ -1,2 +1,2 @@
 # change-detection-on-hyperspectral-images
-shows the goegraphical changes  by comparing past and present images
+shows the geographical changes  by comparing past and present images
